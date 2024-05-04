@@ -3,3 +3,9 @@ Youtube Link: https://www.youtube.com/channel/UCvHSVjZxlF_UGYdX1krWHhg
 Prestation: https://www.canva.com/design/DAGBLJbRBvE/sG_WpML6UpirOtIvZaT4WA/edit
 Report: https://www.overleaf.com/project/65c27db1a64e9846cfeb8d1b
 
+Download the Zip file, 
+
+Open the index.html in your browser. 
+Also, run python3 /path/to/csv_con.py in your local python3 env. 
+
+Give your input in the chatbot, and after around one minute, click to see your output button to load your personalized output. 
